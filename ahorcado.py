@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""Juego sencillo de Ahorcado — para exponer en primer semestre.
 
-Instrucciones: Ejecutar `python ahorcado.py` y seguir las indicaciones.
-"""
 
 import random
 
@@ -82,3 +79,4 @@ def jugar():
 
 if __name__ == "__main__":
     jugar()
+
